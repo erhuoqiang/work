@@ -1,3 +1,4 @@
+// http://www.cnblogs.com/venow/archive/2012/11/22/2779667.html
 #include <stdio.h>
 #include "threadpool.h"
 
